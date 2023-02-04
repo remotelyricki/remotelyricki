@@ -2,6 +2,8 @@
 
 Hello World! My name is Ricki and I would like to welcome you to my portfolio. I will be documenting my journey into the world of code and the knowledge I picked up on the way. Enjoy the ride!
 
+https://remotelyricki.github.io/remotelyricki/
+
 ## Table of Contents
 
 - [Languages](#languages)
